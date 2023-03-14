@@ -33,27 +33,27 @@ pip install -r requirements.txt
 
 The algorithms covered in this repository are:
 
-[Decision Tree](Decision Tree)
+[Decision Tree](<Decision Tree>)
 
-[Gradient Descent](Gradient Descent)
+[Gradient Descent](<Gradient Descent>)
 
-[K-means](K-means)
+[K-means](<K-means>)
 
-[K-nearest neighbors (KNN)](K-nearest neighbors (KNN))
+[K-nearest neighbors (KNN)](<K-nearest neighbors (KNN)>)
 
-[Linear Regression](Linear Regression)
+[Linear Regression](<Linear Regression>)
 
-[Linear Tree](Linear Tree)
+[Linear Tree](<Linear Tree>)
 
-[Logistic Regression](Logistic Regression)
+[Logistic Regression](<Logistic Regression>)
 
-[Naive Bayes](Naive Bayes)
+[Naive Bayes](<Naive Bayes>)
 
-[Principal Component Analysis (PCA)](Principal Component Analysis (PCA))
+[Principal Component Analysis (PCA)](<Principal Component Analysis (PCA)>)
 
-[Support Vector Machine (SVM)](Support Vector Machines (SVM))
+[Support Vector Machine (SVM)](<Support Vector Machines (SVM)>)
 
-[Word2Vec](Word2Vec)
+[Word2Vec](<Word2Vec>)
 
 
 ## Structure of Repo
